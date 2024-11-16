@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anjeladixit/Desktop/c programming folder/mydirectory/linkedlist/file1'
+relocations:     []
+...

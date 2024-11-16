@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anjeladixit/Desktop/c programming folder/mydirectory/linkedlist/radix'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z6getMaxPii, symObjAddr: 0x0, symBinAddr: 0x100003AC0, symSize: 0x90 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z6getMaxPii, symObjAddr: 0x0, symBinAddr: 0x100003AC0, symSize: 0x90 }
+  - { offsetInCU: 0xA5, offset: 0xA5, size: 0x8, addend: 0x0, symName: __Z9countSortPiii, symObjAddr: 0x90, symBinAddr: 0x100003B50, symSize: 0x274 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: __Z9radixsortPii, symObjAddr: 0x304, symBinAddr: 0x100003DC4, symSize: 0x80 }
+  - { offsetInCU: 0x182, offset: 0x182, size: 0x8, addend: 0x0, symName: __Z5printPii, symObjAddr: 0x384, symBinAddr: 0x100003E44, symSize: 0x84 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x408, symBinAddr: 0x100003EC8, symSize: 0x8C }
+...

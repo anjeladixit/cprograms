@@ -1,0 +1,10 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "stdio.h": "c",
+        "OUTPUT.C": "cpp",
+        "PROJECT.C": "cpp",
+        "QUICKSORT.C": "cpp",
+        "ostream": "cpp"
+    }
+}
